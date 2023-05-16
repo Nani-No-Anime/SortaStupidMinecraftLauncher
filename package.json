@@ -5,9 +5,9 @@
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/Nani-No-Anime/SortaStupidMinecraftLaunchercher",
+  "homepage": "https://github.com/Nani-No-Anime/SortaStupidMinecraftLauncher",
   "bugs": {
-    "url": "https://github.com/Nani-No-Anime/SortaStupidMinecraftLaunchercher/issues"
+    "url": "https://github.com/Nani-No-Anime/SortaStupidMinecraftLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nani-No-Anime/SortaStupidMinecraftLaunchercher.git"
+    "url": "git+https://github.com/Nani-No-Anime/SortaStupidMinecraftLauncher.git"
   }
 }
