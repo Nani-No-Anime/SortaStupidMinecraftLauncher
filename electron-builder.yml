@@ -1,4 +1,4 @@
-appId: 'helioslauncher'
+appId: 'sortastupidlauncher'
 productName: 'Sorta Stupid Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
